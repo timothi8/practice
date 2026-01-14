@@ -1,4 +1,4 @@
 # practice
 This is my first practice repository.
 <br>
-Author - Timothi Pariyar
+Author - Timothi Pariyar aka Samir
